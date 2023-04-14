@@ -47,6 +47,10 @@ ul{
     flex-basis: 0;
 }
 
+.menu__btn{
+    display: none
+}    
+
 .phone{
     flex-grow: 1;
     flex-basis: 0;
